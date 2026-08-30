@@ -125,8 +125,7 @@ An AI-powered movie recommendation system focused on helping users discover movi
 # 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Arceaus&theme=transparent&hide_border=true&ring=A995C5&fire=C4B5D9&currStreakLabel=C4B5D9&sideLabels=B8B3C4&dates=8E8999&currStreakNum=E4DDF0&sideNums=E4DDF0"
+  <img src="https://streak-stats.demolab.com/?user=Arceaus&theme=transparent&hide_border=true&ring=A995C5&fire=C4B5D9&currStreakLabel=C4B5D9&sideLabels=B8B3C4&dates=8E8999&currStreakNum=E4DDF0&sideNums=E4DDF0"
     height="170"
     alt="GitHub Streak Stats"
   />
@@ -152,61 +151,7 @@ An AI-powered movie recommendation system focused on helping users discover movi
     />
   </picture>
 </p>
-# 🐍 Contributions
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-# 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
-# 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
 # 🌐 Let's Connect
 
 <p align="center">
