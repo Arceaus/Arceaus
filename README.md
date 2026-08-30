@@ -126,17 +126,50 @@ An AI-powered movie recommendation system focused on helping users discover movi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Arceaus&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github&title_color=C4B5D9&text_color=B8B3C4&icon_color=A995C5"
-    height="170"
-  />
-  <img
     src="https://streak-stats.demolab.com/?user=Arceaus&theme=transparent&hide_border=true&ring=A995C5&fire=C4B5D9&currStreakLabel=C4B5D9&sideLabels=B8B3C4&dates=8E8999&currStreakNum=E4DDF0&sideNums=E4DDF0"
     height="170"
+    alt="GitHub Streak Stats"
   />
 </p>
 
 ---
 
+# 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
+# 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Arceaus/Arceaus/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 # 🐍 Contributions
 
 <p align="center">
